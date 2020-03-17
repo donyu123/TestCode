@@ -1,0 +1,26 @@
+2020-03-12 15:26:08,331  日志封装 DEBUG this is a debug
+2020-03-12 15:29:15,176 日志封装 DEBUG this is a debug
+2020-03-12 15:49:59,747 日志封装 DEBUG this is a debug
+2020-03-12 17:38:16,997 日志 INFO 登录请求
+2020-03-12 18:26:04,629 日志 INFO 登录请求
+2020-03-12 18:26:18,648 日志 INFO 登录请求
+2020-03-12 18:26:24,119 日志 INFO 登录请求
+2020-03-12 18:26:33,898 日志 INFO 登录请求
+2020-03-12 18:26:45,980 日志 INFO 登录请求
+2020-03-12 18:43:16,781 日志 INFO 登录请求
+2020-03-12 18:48:24,540 日志 INFO 登录请求
+2020-03-12 18:48:27,230 断言验证 ERROR {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTYyMzQsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.5GAjKItwuYhXJKwAvGy12fhP91fRGdtbQz9wHoGQx7g', 'username': 'python', 'user_id': 1}内容不相等
+2020-03-12 18:49:12,465 日志 INFO 登录请求
+2020-03-12 18:49:13,526 断言验证 ERROR 不包含错误{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTYyODEsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.T6A-MJlSo-lnINrikioLDx8C76Y78JjwtZcWX_uAUOA", "username": "python", "user_id": 1}'username': 'python', 'user_id'
+2020-03-12 18:49:33,669 日志 INFO 登录请求
+2020-03-12 18:49:34,487 断言验证 ERROR 不包含或者body是错误，body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTYzMDIsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.Ok2JKnDmsfW8Dwsa_QycceLkVPIml_kUpCoguLavsf4", "username": "python", "user_id": 1},expected_body is 'username': 'python', 'user_id'
+2020-03-12 18:50:18,058 日志 INFO 登录请求
+2020-03-12 18:50:18,998 断言验证 ERROR 不包含或者body是错误，body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTYzNDcsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.VuR6unu8zqboTdwwFXEe_QjWIpIw_Hvczk5v4AkjmR4", "username": "python", "user_id": 1},expected_body is "user_id": 1, "username": "python"
+2020-03-12 18:50:39,137 日志 INFO 登录请求
+2020-03-12 18:50:40,556 断言验证 ERROR 不包含或者body是错误，body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTYzNjgsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.E0AftpvqFojpcoDnzihkHrBml6sDA_ceTft3rc-mVR4", "username": "python", "user_id": 1},expected_body is 'username': 'python', 'user_id'
+2020-03-12 18:51:00,867 日志 INFO 登录请求
+2020-03-12 18:51:01,676 断言验证 ERROR 不包含或者body是错误，body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTYzODksInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.YRneIP7_Jxul0sBUvRlZStU8s8cw8fdmUZbYXgFRNx0", "username": "python", "user_id": 1},expected_body is 'username': 'python', 'user_id':1
+2020-03-12 18:51:33,225 日志 INFO 登录请求
+2020-03-12 18:51:35,210 断言验证 ERROR 不包含或者body是错误，body is {"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Ijk1MjY3MzYzOEBxcS5jb20iLCJleHAiOjE1ODQwOTY0MjIsInVzZXJuYW1lIjoicHl0aG9uIiwidXNlcl9pZCI6MX0.ZResV6P71K7PC3hdLWSt2kcfpiT2fyHL7aB5uk6bUJc", "username": "python", "user_id": 1},expected_body is 'username': 'python', 'user_id': 1
+2020-03-12 18:55:47,222 断言验证 ERROR 不包含或者body是错误，body is "hello word",expected_body is ss
+2020-03-12 19:03:27,901 断言验证 ERROR 不包含或者body是错误，body is "hello word",expected_body is word

@@ -1,0 +1,4 @@
+2020-03-13 18:10:28,575 D:\InterfaceTest\utils\LoginUtil.py INFO heanders的值是：{"Authorization": "JWT ${token}$"} cookies的值是：
+2020-03-13 18:10:28,577 D:\InterfaceTest\utils\LoginUtil.py INFO 替换过后的值是['token']
+2020-03-13 18:13:24,650 D:\InterfaceTest\utils\LoginUtil.py INFO heanders的值是：{"Authorization": "JWT ${token}$"} cookies的值是：
+2020-03-13 18:13:24,651 D:\InterfaceTest\utils\LoginUtil.py INFO 替换过后的值是['token']

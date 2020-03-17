@@ -1,0 +1,77 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-THN35DI",
+    "children" : [ {
+      "name" : "17140-MainThread",
+      "children" : [ {
+        "name" : "test_run[case0]",
+        "uid" : "c1e3447de5d068bd",
+        "parentUid" : "419279a58f8c555dc0086887f086800a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584429649328,
+          "stop" : 1584429652054,
+          "duration" : 2726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+      } ],
+      "uid" : "419279a58f8c555dc0086887f086800a"
+    }, {
+      "name" : "15820-MainThread",
+      "children" : [ {
+        "name" : "test_run[case0]",
+        "uid" : "50a9fcaec3f11c5e",
+        "parentUid" : "fb9ca91769750dd4dfd201d2e06de3e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584348506868,
+          "stop" : 1584348508024,
+          "duration" : 1156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+      } ],
+      "uid" : "fb9ca91769750dd4dfd201d2e06de3e3"
+    }, {
+      "name" : "15792-MainThread",
+      "children" : [ {
+        "name" : "test_run[case0]",
+        "uid" : "c432cc3bf32c8161",
+        "parentUid" : "d6fa945c217acdde0f6e268345ae6958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584348669429,
+          "stop" : 1584348671064,
+          "duration" : 1635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+      } ],
+      "uid" : "d6fa945c217acdde0f6e268345ae6958"
+    }, {
+      "name" : "7864-MainThread",
+      "children" : [ {
+        "name" : "test_run[case0]",
+        "uid" : "cb2314feb84764da",
+        "parentUid" : "83622eb6917b1cd2bb06e0bbad2a16b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1584348606590,
+          "stop" : 1584348609513,
+          "duration" : 2923
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+      } ],
+      "uid" : "83622eb6917b1cd2bb06e0bbad2a16b8"
+    } ],
+    "uid" : "c5ae298a2b67484a132ec5ec4cba6341"
+  } ]
+}

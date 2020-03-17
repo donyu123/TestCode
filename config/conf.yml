@@ -1,0 +1,5 @@
+BASE:
+  test:
+    url: "http://211.103.136.242:8064"
+    log: ".log"
+    log_level: "debug"
